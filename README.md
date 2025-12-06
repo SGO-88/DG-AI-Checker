@@ -118,6 +118,7 @@ Risk Level: HIGH
 
 ## 📁 **Repository Structure**
 
+```
 DG-AI-Checker/
 │
 ├── README.md
@@ -125,22 +126,27 @@ DG-AI-Checker/
 ├── dg-regulations-overview.md
 ├── amazon-scan-guidelines.md
 ├── sample-reports/
-│     ├── example_aerosol.json
-│     ├── example_lithium.json
+│   ├── example_aerosol.json
+│   ├── example_lithium.json
+└── assets/
+    └── Suat_Goker_Ozaktay_Updated_CV.docx (optional)
+```
 
-Tech Stack (AI-Only)
+---
 
-ChatGPT / LLM reasoning
+## 🌐 **Tech Stack (AI-Only)**
 
-Prompt engineering
+- ChatGPT / LLM reasoning  
+- Prompt engineering  
+- Dangerous Goods knowledge  
+- No coding required  
 
-Dangerous Goods knowledge
+---
 
-No coding required
+## 📬 **Author**
 
-📬 Author
-
-Goker Ozaktay
-Fort Lauderdale, FL
-Logistics & Export Operations Specialist
+**Goker Ozaktay**  
+Fort Lauderdale, FL  
+Logistics & Export Operations Specialist  
 AI Workflow Developer (Logistics)
+
